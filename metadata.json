@@ -1,0 +1,5 @@
+{
+  "name": "ExcelDiff Pro",
+  "description": "Ứng dụng so sánh sự khác biệt giữa hai file Excel, hiển thị trực quan các thay đổi và sử dụng AI để tóm tắt nội dung thay đổi.",
+  "requestFramePermissions": []
+}
